@@ -1,5 +1,5 @@
 # hackintosh
-Curated bootloader to install either MacOS Catalina (10.15.7) or Ventura (13.5.1). Board identifying information has been removed. You will need to use a tool such as gensmbios.py to generate your own board information. GLHF!
+Curated bootloader to install either MacOS Catalina (10.15.7) or Ventura (13.5.1). Board identifying information has been removed. You will need to use a tool such as gensmbios.py to generate your own board information in your config.plist. GLHF!
 
 Specifications:
 CPU: 3.8 GHz AMD Ryzen 7 5700G 
